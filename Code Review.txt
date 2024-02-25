@@ -1,0 +1,6 @@
+I did not have any problem getting the solution to load up and view the code.
+It is definitely set up as a class library.
+I only saw three methods inside, each displaying a different error message.
+I am not entirely sure, but I thought the intent was to translate our class that we used, outside of our main program into a class library.
+The one for handling queries and what not.
+I am still a bit unsure about the instructions though and I have already seen a few other uploads set up like you have it.
