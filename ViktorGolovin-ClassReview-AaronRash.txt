@@ -1,0 +1,20 @@
+Viktor Golovin class library code review by Aaron Rash
+
+You went in a bit of a different direction than other students, which piqued my interest.
+Most of the assignments I looked at either set data or held queries,
+while yours allows you to display a couple different error messages.
+
+I hadn't thought to use a class in this fashion but I dig it.
+I was so tunnel visioned on using the class for the main portion of the assignment,
+that I never considered to use it to simplify the smaller details.
+
+I tend to use pretty much the same exact error messages in a lot of my projects,
+so I can envision expanding a class library like this to streamline a bunch of other small or repetetive tasks.
+It would save me from a bunch of busywork
+
+Now that sounds like something I would consider putting in every one of my projects by default.
+	which would be the point of a class library I suppose.
+
+In that regard, I think you're on track to make something really useful.
+My only reccomendation is to make more. Keep this project around, add new ideas throughout the semester,
+see if you can make a comprehensive time saving library.

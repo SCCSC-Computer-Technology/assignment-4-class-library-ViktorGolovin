@@ -1,0 +1,3 @@
+There code is well-documented, and there is no dead code. Visual studio reports no compilation errors. There is nothing out of the ordinary as far as I can tell.
+
+My only complaint is that a MessageBox is shown to the user outside of the form code. It is difficult to tell how this code is used without examining the entire program, but I believe the error messages should be coded in each form class separately, allowing the developer to provide more descriptive error messages if needed. Furthermore, the names of the functions might be confusing at first glance. For example, I think that numError() should be renamed to displayNumError().
